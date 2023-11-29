@@ -1,1 +1,9 @@
-God is the greatest. All day, everyday!
+git init
+
+git status
+
+git add nameOfFile.extension
+
+git commit -m "message"
+
+git log
