@@ -4,6 +4,8 @@ git status
 
 git add nameOfFile.extension
 
+git rm --cached -r .
+
 git commit -m "message"
 
 git log
@@ -11,3 +13,9 @@ git log
 git diff nameOfFile.extension
 
 git checkout nameOfFile.extension
+
+git remote add origin urlOfRemoteRrpository.com
+
+ git push -u origin main
+
+ touch .gitignore
