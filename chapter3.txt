@@ -7,3 +7,7 @@ git add nameOfFile.extension
 git commit -m "message"
 
 git log
+
+git diff nameOfFile.extension
+
+git checkout nameOfFile.extension
